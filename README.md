@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachini</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
-
+<img src = "https://img.freepik.com/premium-vector/woman-programming-laptop_701961-791.jpg?w=740">
 - 🌱 I’m currently learning **INTERNET TECHNOLOGIES**
 
 - 💬 Ask me about **JAVA,HTML,CSS,JAVASCRIPT,MYSQL**
